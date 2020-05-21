@@ -1,0 +1,2 @@
+.Showcase__products{display:grid;grid-template-columns:1fr 1fr 1fr 1fr 1fr}.Product{background-color:#fff;box-shadow:0 1px 5px rgba(0,0,0,.1);margin:16px;padding:16px;display:flex;flex-direction:column}.Product__image{display:flex;align-items:center;justify-content:center;margin-bottom:8px}.Product__name{margin-bottom:16px;flex:1 1}.Product__price{font-weight:700}.Product__actions{margin-top:16px;display:flex;justify-content:space-between}
+/*# sourceMappingURL=main.482b12e5.chunk.css.map */
