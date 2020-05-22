@@ -1,0 +1,2 @@
+(this["design-system"]=this["design-system"]||[]).push([[0],{12:function(t,n,e){},13:function(t,n,e){"use strict";e.r(n);var s=e(2),i=e(1),c={name:"design-system",interface:{components:{}}},o=e(0),a=e.n(o),u=(e(12),function(t){var n=t.children,e=t.onClick;return a.a.createElement("button",{className:"Button",onClick:e},n)});new i.a(c).build().setComponents({Button:u});var r=c;Object(i.b)(Object(s.a)(Object(s.a)({},r),{},{view:{Button:u}}))},5:function(t,n,e){t.exports=e(13)}},[[5,1,2]]]);
+//# sourceMappingURL=main.38f2d3df.chunk.js.map
