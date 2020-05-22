@@ -1,0 +1,46 @@
+{
+  "showcase": {
+    "js": [
+      "./microfrontends/showcase/precache-manifest.b41562900ac74556ca44c79e8200097b.js",
+      "./microfrontends/showcase/static/js/2.b01698be.chunk.js",
+      "./microfrontends/showcase/static/js/main.15708938.chunk.js",
+      "./microfrontends/showcase/static/js/runtime-main.f7353edb.js"
+    ],
+    "css": [
+      "./microfrontends/showcase/static/css/main.482b12e5.chunk.css"
+    ]
+  },
+  "cart": {
+    "js": [
+      "./microfrontends/cart/precache-manifest.2456fb5b999af90fbd378946fddcb5af.js",
+      "./microfrontends/cart/static/js/2.d73ff75a.chunk.js",
+      "./microfrontends/cart/static/js/main.d4cd8be5.chunk.js",
+      "./microfrontends/cart/static/js/runtime-main.5c1235d9.js"
+    ],
+    "css": [
+      "./microfrontends/cart/static/css/main.9d7b5081.chunk.css"
+    ]
+  },
+  "design-system": {
+    "js": [
+      "./microfrontends/design-system/precache-manifest.9c8a45b534ef605d55e15995422f29f6.js",
+      "./microfrontends/design-system/static/js/2.ea174cef.chunk.js",
+      "./microfrontends/design-system/static/js/main.38f2d3df.chunk.js",
+      "./microfrontends/design-system/static/js/runtime-main.cca48beb.js"
+    ],
+    "css": [
+      "./microfrontends/design-system/static/css/main.9da002b6.chunk.css"
+    ]
+  },
+  "promotion": {
+    "js": [
+      "./microfrontends/promotion/precache-manifest.2bfafd44fcd02a52b3e1197c6fc876c7.js",
+      "./microfrontends/promotion/static/js/2.7d104be7.chunk.js",
+      "./microfrontends/promotion/static/js/main.d174259f.chunk.js",
+      "./microfrontends/promotion/static/js/runtime-main.c691776d.js"
+    ],
+    "css": [
+      "./microfrontends/promotion/static/css/main.65036fd7.chunk.css"
+    ]
+  }
+}
