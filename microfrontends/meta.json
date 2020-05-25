@@ -1,15 +1,4 @@
 {
-  "design-system": {
-    "js": [
-      "./microfrontends/design-system/precache-manifest.c04fc85fde45967ea2af121ab98a77da.js",
-      "./microfrontends/design-system/static/js/2.ea174cef.chunk.js",
-      "./microfrontends/design-system/static/js/main.38f2d3df.chunk.js",
-      "./microfrontends/design-system/static/js/runtime-main.7737ea44.js"
-    ],
-    "css": [
-      "./microfrontends/design-system/static/css/main.9da002b6.chunk.css"
-    ]
-  },
   "showcase": {
     "js": [
       "./microfrontends/showcase/precache-manifest.091de1f731306a838ecb979fce630d56.js",
@@ -25,8 +14,8 @@
     "js": [
       "./microfrontends/promotion/precache-manifest.dc1948ab6ca11ee24defcff26ab93f51.js",
       "./microfrontends/promotion/static/js/2.7d104be7.chunk.js",
-      "./microfrontends/promotion/static/js/runtime-main.5e587e9b.js",
-      "./microfrontends/promotion/static/js/main.d174259f.chunk.js"
+      "./microfrontends/promotion/static/js/main.d174259f.chunk.js",
+      "./microfrontends/promotion/static/js/runtime-main.5e587e9b.js"
     ],
     "css": [
       "./microfrontends/promotion/static/css/main.65036fd7.chunk.css"
@@ -41,6 +30,17 @@
     ],
     "css": [
       "./microfrontends/cart/static/css/main.9d7b5081.chunk.css"
+    ]
+  },
+  "design-system": {
+    "js": [
+      "./microfrontends/design-system/precache-manifest.c04fc85fde45967ea2af121ab98a77da.js",
+      "./microfrontends/design-system/static/js/2.ea174cef.chunk.js",
+      "./microfrontends/design-system/static/js/main.38f2d3df.chunk.js",
+      "./microfrontends/design-system/static/js/runtime-main.7737ea44.js"
+    ],
+    "css": [
+      "./microfrontends/design-system/static/css/main.9da002b6.chunk.css"
     ]
   }
 }
