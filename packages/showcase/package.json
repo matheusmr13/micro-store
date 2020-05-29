@@ -1,6 +1,6 @@
 {
   "name": "showcase",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "microfrontend-controller start",
-    "build": "microfrontend-controller build -s",
+    "build": "microfrontend-controller build -m",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
