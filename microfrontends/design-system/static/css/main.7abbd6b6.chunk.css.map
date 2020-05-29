@@ -1,0 +1,1 @@
+{"version":3,"sources":["Button.css"],"names":[],"mappings":"AAAA,QACE,oBAAqB,CACrB,WAAY,CACZ,WAAY,CACZ,YAAa,CACb,cACF","file":"main.7abbd6b6.chunk.css","sourcesContent":[".Button {\n  background-color: red;\n  padding: 8px;\n  border: none;\n  outline: none;\n  cursor: pointer;\n}"]}

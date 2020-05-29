@@ -12,13 +12,13 @@
   },
   "design-system": {
     "js": [
-      "./microfrontends/design-system/precache-manifest.c04fc85fde45967ea2af121ab98a77da.js",
+      "./microfrontends/design-system/precache-manifest.11f94341e6ba4044bf73795f8695b9bf.js",
       "./microfrontends/design-system/static/js/2.ea174cef.chunk.js",
       "./microfrontends/design-system/static/js/main.38f2d3df.chunk.js",
       "./microfrontends/design-system/static/js/runtime-main.7737ea44.js"
     ],
     "css": [
-      "./microfrontends/design-system/static/css/main.9da002b6.chunk.css"
+      "./microfrontends/design-system/static/css/main.7abbd6b6.chunk.css"
     ]
   },
   "cart": {
