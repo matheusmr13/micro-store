@@ -23,9 +23,9 @@
   },
   "cart": {
     "js": [
-      "./microfrontends/cart/precache-manifest.4b9a76a7e9b0fc0f3f402b3e9261a9e4.js",
+      "./microfrontends/cart/precache-manifest.d62c21cbdd4a69bbcc669f04b1a76910.js",
       "./microfrontends/cart/static/js/2.d73ff75a.chunk.js",
-      "./microfrontends/cart/static/js/main.d4cd8be5.chunk.js",
+      "./microfrontends/cart/static/js/main.356a06da.chunk.js",
       "./microfrontends/cart/static/js/runtime-main.b1bce558.js"
     ],
     "css": [
