@@ -1,19 +1,26 @@
 import schema from './schema';
-import { Api } from 'react-microfrontend';
+import {
+  Api
+} from '@cmra/react';
 const api = new Api(schema).build();
 
+api.setCart({
+  products: []
+});
 api.onAddProductToCartCalled((product) => {
+  const products = api.getCart().products || [];
   api.setCart(
     Object.assign({
-      products: [...api.getCart().products, product],
+      products: [...products, product],
     })
   );
 });
 
 api.onRemoveProductFromCartCalled((productToRemove) => {
+  const products = api.getCart().products || [];
   api.setCart(
     Object.assign({
-      products: api.getCart().products.filter((product) => product.id !== productToRemove.id),
+      products: products.filter((product) => product.id !== productToRemove.id),
     })
   );
 });

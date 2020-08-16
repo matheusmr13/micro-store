@@ -1,4 +1,4 @@
-import { Api } from 'react-microfrontend';
+import { Api } from '@cmra/react';
 export default {
   name: 'cart',
   interface: {

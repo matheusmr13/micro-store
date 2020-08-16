@@ -1,5 +1,5 @@
 import schema from './schema';
-import { Api } from 'react-microfrontend';
+import { Api } from '@cmra/react';
 const api = new Api(schema).build();
 
 api.onFilterByTagCalled((tag) => {

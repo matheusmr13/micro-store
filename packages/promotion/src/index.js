@@ -1,4 +1,4 @@
-import { ExportMicrofrontend, TYPE } from 'react-microfrontend';
+import { ExportMicrofrontend, TYPE } from '@cmra/react';
 import Promotion from './Promotion';
 
 ExportMicrofrontend({

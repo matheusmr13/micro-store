@@ -1,4 +1,4 @@
-import { withMicrofrontend, TYPE } from 'react-microfrontend';
+import { withMicrofrontend, TYPE } from '@cmra/react';
 
 import React, { useState } from 'react';
 import DesignSystem from 'design-system';
